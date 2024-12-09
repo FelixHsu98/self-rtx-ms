@@ -1,0 +1,20 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/felix/media_system/tools/toolchain/poky/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-gcc 
+Build flags: --sysroot=/home/felix/media_system/tools/toolchain/poky//sysroots/aarch64-poky-linux
+Id flags: -c;--target=aarch64-poky-linux 
+
+The output was:
+1
+aarch64-poky-linux-gcc: error: unrecognized command line option ‘--target=aarch64-poky-linux’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/felix/media_system/tools/toolchain/poky/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ 
+Build flags: --sysroot=/home/felix/media_system/tools/toolchain/poky//sysroots/aarch64-poky-linux
+Id flags: -c;--target=aarch64-poky-linux 
+
+The output was:
+1
+aarch64-poky-linux-g++: error: unrecognized command line option ‘--target=aarch64-poky-linux’
+
+

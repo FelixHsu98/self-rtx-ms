@@ -1,0 +1,3 @@
+/home/felix/media_system/sample_hello_world/build_linux_dev_board/CMakeFiles/VOUT.dir
+/home/felix/media_system/sample_hello_world/build_linux_dev_board/CMakeFiles/edit_cache.dir
+/home/felix/media_system/sample_hello_world/build_linux_dev_board/CMakeFiles/rebuild_cache.dir

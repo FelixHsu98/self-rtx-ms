@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/felix/media_system/sample_hello_world/build_linux_dev_board",
+  "command": "/home/felix/media_system/tools/toolchain/poky/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-gcc --sysroot=/home/felix/media_system/tools/toolchain/poky//sysroots/aarch64-poky-linux   --sysroot=/home/felix/media_system/tools/toolchain/poky//sysroots/aarch64-poky-linux -g -o CMakeFiles/VOUT.dir/src/main.c.o -c /home/felix/media_system/sample_hello_world/src/main.c",
+  "file": "/home/felix/media_system/sample_hello_world/src/main.c"
+}
+]

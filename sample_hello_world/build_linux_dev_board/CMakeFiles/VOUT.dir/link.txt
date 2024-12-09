@@ -1,0 +1,1 @@
+/home/felix/media_system/tools/toolchain/poky/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-gcc --sysroot=/home/felix/media_system/tools/toolchain/poky//sysroots/aarch64-poky-linux --sysroot=/home/felix/media_system/tools/toolchain/poky//sysroots/aarch64-poky-linux -g -Wl,-gc-sections CMakeFiles/VOUT.dir/src/main.c.o -o VOUT 

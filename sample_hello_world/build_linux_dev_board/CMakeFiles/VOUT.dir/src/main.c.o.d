@@ -1,0 +1,29 @@
+CMakeFiles/VOUT.dir/src/main.c.o: \
+ /home/felix/media_system/sample_hello_world/src/main.c \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/stdc-predef.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/stdio.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/libc-header-start.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/features.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/sys/cdefs.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/wordsize.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/wordsize-64.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/long-double.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/long-double-64.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/gnu/stubs.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/gnu/stubs-64.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/gnu/stubs-lp64.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/9.3.0/include/stddef.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/9.3.0/include/stdarg.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/types.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/timesize.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/typesizes.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/typesizes-64.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/time64.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/types/__fpos_t.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/types/__mbstate_t.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/types/__fpos64_t.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/types/__FILE.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/types/FILE.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/types/struct_FILE.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/stdio_lim.h \
+ /home/felix/media_system/tools/toolchain/poky/sysroots/aarch64-poky-linux/usr/include/bits/sys_errlist.h
